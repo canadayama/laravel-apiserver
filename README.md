@@ -32,7 +32,7 @@ Ep05 - App Overview and Introduction | Laravel API server
 Ep06 - Database Design and Migration | Laravel API Server
 Ep07 - Seeds and Factories | Laravel API Server
 Ep08 - All about Models and Relationships | Laravel API Server
-9.
+Ep09 - Seeding Model Relationships | Laravel API Server
 10.
 
 11.
