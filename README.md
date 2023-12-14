@@ -24,12 +24,12 @@ Optional:
 
 ### Acadea.io
 
-1.
-2.
-3.
-4.
-5.
-6.
+Ep01 - Laravel's Architecture: A quick Overview on Directory and App Structure
+Ep02 - Laravel Middleware and HTTP Kernel
+Ep03 - Laravel Service Container and Service Provider
+Ep04 - Laravel Facade: What is it and how to create one?
+Ep05 - App Overview and Introduction | Laravel API server
+Ep06 - Database Design and Migration | Laravel API Server
 7.
 8.
 9.
