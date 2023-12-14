@@ -31,7 +31,7 @@ Ep04 - Laravel Facade: What is it and how to create one?
 Ep05 - App Overview and Introduction | Laravel API server
 Ep06 - Database Design and Migration | Laravel API Server
 Ep07 - Seeds and Factories | Laravel API Server
-8.
+Ep08 - All about Models and Relationships | Laravel API Server
 9.
 10.
 
