@@ -33,8 +33,7 @@ Ep06 - Database Design and Migration | Laravel API Server
 Ep07 - Seeds and Factories | Laravel API Server
 Ep08 - All about Models and Relationships | Laravel API Server
 Ep09 - Seeding Model Relationships | Laravel API Server
-10.
-
+Ep10 - RESTful API Route Design and Laravel Routes
 11.
 12.
 13.
