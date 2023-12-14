@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:  
+  app:
+    build:
+      dockerfile: Dockerfile.prod
+    container_name: container-name
+    restart: unless-stopped
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - 9000:9000
+      - 5678:5678 # For debugging
+    networks:
+      network:
+        ipv4_address: 172.16.0.11
