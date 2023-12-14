@@ -30,7 +30,7 @@ Ep03 - Laravel Service Container and Service Provider
 Ep04 - Laravel Facade: What is it and how to create one?
 Ep05 - App Overview and Introduction | Laravel API server
 Ep06 - Database Design and Migration | Laravel API Server
-7.
+Ep07 - Seeds and Factories | Laravel API Server
 8.
 9.
 10.

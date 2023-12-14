@@ -3,3 +3,5 @@
 
 # Directories
 node_modules/
+docs/.*.drawio.dtmp
+docs/.*.drawio.bkp
